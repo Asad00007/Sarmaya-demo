@@ -69,7 +69,7 @@ const ProductList = () => {
       <h1 className="text-2xl md:text-3xl pt-10 font-semibold">
         Product list
         <span className="text-[14px] ml-2">
-          (Click on any product name to see it's details)
+          (Click on any product name to see it&apos;s details)
         </span>
       </h1>
       <div className="flex flex-col gap-5 my-10">
