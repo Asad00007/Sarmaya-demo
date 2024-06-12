@@ -87,7 +87,7 @@ const ProductList = () => {
           />
           {temp && (
             <div
-              className="px-3 text-2xl cursor-pointer"
+              className="hidden md:block px-3 text-2xl cursor-pointer"
               onClick={() => setTemp("")}
             >
               &times;
