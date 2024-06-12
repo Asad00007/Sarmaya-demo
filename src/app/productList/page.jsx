@@ -94,7 +94,7 @@ const ProductList = () => {
             </div>
           )}
           <button
-            className="border-l p-3 px-10 bg-gray-100"
+            className="hidden md:block border-l p-3 px-10 bg-gray-100"
             onClick={searchItem}
           >
             Search
